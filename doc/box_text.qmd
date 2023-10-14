@@ -1,0 +1,27 @@
+---
+title: "box"
+format: pdf
+editor: visual
+bibliography: references_knapp.bib
+csl: ecology_edited.csl
+---
+
+## Box
+
+-   Box highlighting the Sierra Nevada Bd-Ranid journey.
+
+-   Guidelines for Bd Box in the Amphibian Biology chapter on amphibian diversity and conservation in the Far West.
+
+    -   Develop a text file in doc format with a title, your name and affiliation, and tabbed paragraphs.
+
+    -   Aim for \~1500 words of main text and 2 images (fewer words if 3 images), and acknowledgments and references at the end that I'll pull out for the chapter's end matter.
+
+    -   The writing style should convey the key points of the 'story' in a logical format generally addressing background/context, findings, conservation implications.
+        At this time we don't know the actual page sizes, so the word count is a best guess which I believe can be accommodated by enlarging or shrinking image sizes.
+
+    -   Tiff file formats are preferred for images with high quality/resolution, 300 dpi or greater.
+        If you plan a collage of images, label as A, B, C, D, and submit the collage as a single figure with legible letters.
+        Graphs are ok too, but make sure the font size is legible.
+        Send the images as separate files.
+
+    -   Deadline is January 1, 2024.
