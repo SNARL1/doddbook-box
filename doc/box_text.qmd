@@ -1,27 +1,58 @@
 ---
-title: "box"
-format: pdf
+format: docx
+editor_options:
+  markdown:
+    wrap: sentence
 editor: visual
-bibliography: references_knapp.bib
-csl: ecology_edited.csl
+bibliography: references.bib
+csl: ecology.csl
 ---
 
-## Box
+## Recovering mountain yellow-legged frogs in the presence of a lethal fungal pathogen
 
--   Box highlighting the Sierra Nevada Bd-Ranid journey.
+Roland A. Knapp
 
--   Guidelines for Bd Box in the Amphibian Biology chapter on amphibian diversity and conservation in the Far West.
+Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, CA, 93546 & Earth Research Institute, University of California, Santa Barbara, CA, 93106-3060.
+roland.knapp\@ucsb.edu
 
-    -   Develop a text file in doc format with a title, your name and affiliation, and tabbed paragraphs.
+The mountain yellow-legged (MYL) frog is composed of the sister species *Rana muscosa* and *Rana sierrae* [@vredenburg2007; @byrne2023].
+These species are endemic to the highest mountain ranges in California (USA), with *R. sierrae* endemic to the northern and central Sierra Nevada and *R. muscosa* endemic to the southern Sierra Nevada and the adjacent Transverse Ranges.
+Both taxa are highly susceptible to infection by the recently-emerged amphibian chytrid fungus (*Batrachochytrium dendrobatidis*: "Bd"), and are emblematic of the global declines of amphibians caused by this pathogen [@scheele2019].
+Once the most common amphibian in many parts of its historical range [e.g., @grinnell1924], during the past century this frog has disappeared from more than 90% of its historical range [@vredenburg2007].
+Due to the severity of its decline and the increasing probability of extinction, both species are now listed as "endangered" under the U.S.
+Endangered Species Act.
+In this box, I focus primarily on Sierra Nevada populations because of the unusually detailed understanding of frog-Bd dynamics in this area.
+The results I describe below are likely of direct relevance to MYL frog ecology and managemwent in the Transverse Ranges.
+In the Sierra Nevada, the decline of MYL frogs was initiated by the introduction of non-native predatory trout into the extensive historically-fishless region [@bradford1989; @knapp2000] starting in the late 1800s.
+The arrival of Bd in the mid-1900s and its subsequent spread [@vredenburg2019] caused additional large-scale population extirpations [@vredenburg2010; @rachowicz2006].
+Given the current ubiquity of Bd in the Sierra Nevada, Bd represents a long-term alteration of invaded ecosystems that MYL frogs, and other amphibians susceptible to Bd infection, will need to overcome to re-occupy habitats following Bd-caused exirpations.
+However, given that most Bd-naive MYL frog populations are extirpated following Bd arrival, are there any mechanisms by which MYL frogs can reestablish populations in the presence of Bd?
+If so, can we utilize these mechanisms to facilitate recovery of MYL frogs across their historical range?
 
-    -   Aim for \~1500 words of main text and 2 images (fewer words if 3 images), and acknowledgments and references at the end that I'll pull out for the chapter's end matter.
+To gain insights into these important questions, my colleagues and I turned to MYL frog populations that are recovering naturally in the decades following Bd-caused declines [@knapp2016].
+Bd has been spreading across the Sierra Nevada since at least the 1970s, and its arrival in naive MYL frog populations is predicted by the distance between the population of interest and the nearest Bd outbreak documented in previous years [@zhou2015].
+As such, Bd spread between watersheds, typically separated by steep divides, often takes years and even decades, but once established in a watershed, Bd spreads quickly to all or nearly all MYL frog populations \[estimated rate of spread is approximately 700 m per year, @briggs2010\]. The vectors responsible for Bd spread remain unknown, but the slow spread between drainages and low annual probability of Bd arrival in a drainage argues against a vector with high dispersal capabilities (e.g., birds, humans).
+Instead, it suggests a relatively ineffective vector, as might result from passive dispersal in the air, or on aquatic insects capable of only short distance dispersal.
+The relatively rapid within-drainage spread is consistent with amphibians, including MYL frogs, serving as vectors.
+The arrival of Bd in a naive MYL frog population is characterized by either a failed invasion, or establishment and rapid increases in Bd load to very high, and often lethal, levels <!--# Photograph - 60 Lake Basin? -->. Drivers of these divergent outcomes are unrelated to frog density and instead are predicted by environmental conditions, including summer temperature, winter severity, and the presence of pathogen reservoirs \[@wilber2022\].
+Although most MYL frog populations are extirpated following Bd epizootics [@vredenburg2010], a small fraction persist in an enzootic state, often for decades, at greatly reduced population sizes [@briggs2010].
+Some of these enzootic populations show sufficiently high adult survival and recruitment to allow slow and often episodic increases in adult abundance, and these recovering populations appear to persist over the long term.
+<!--# Photograph - Recovering population -->
 
-    -   The writing style should convey the key points of the 'story' in a logical format generally addressing background/context, findings, conservation implications.
-        At this time we don't know the actual page sizes, so the word count is a best guess which I believe can be accommodated by enlarging or shrinking image sizes.
+Importantly, enzootic MYL frog populations show reduced susceptibility to Bd infection, as evidenced by low-to-moderate Bd infection intensity ("load", @briggs2010; @knapp2011) that is strikingly different from the high load characteristic of the epizootic state [@briggs2010].
+This reduced susceptibility is evident even in a tightly-controlled laboratory experiment [@knapp2016] in which frogs from naive and recovering populations were paired in identical tanks and exposed to Bd.
+The consistently lower loads developed by frogs from recovering populations indicates that host resistance against Bd infection is inherent in individuals, at least in part.
+This result also rules out the possibility that susceptibility is primarily an effect of factors that are external to individual frogs (e.g., environmental conditions).
+Resistance could result from several non-mutually exclusive mechanisms, including natural selection for more resistant genotypes [@savage2016; @grogan2018b], acquired immunity [@grogan2018a], and/or inherent between-population differences that pre-date Bd exposure.
+Although all of these may underlie the observed resistance to some degree, frog evolution may be a particularly important mechanism because it is inherent in frogs and will be readily passed between generations.
+In contrast, acquired immunity needs to be developed by frogs in each generation and may result in lower survival due to the need for individuals to become infected, potentially at high levels, to develop robust immunity.
+Available evidence suggests that both frog evolution [@knapp2023] and acquired immunity [@grogan2018a] are involved in the Bd resistance of MYL frogs.
+Evidence of frog evolution in response to Bd comes from a recent study that used exome capture methods to compare the coding regions of frogs from replicate Bd-naive and adjacent recovering populations [@knapp2023].
+Frogs in recovering populations showed evidence of parallel evolution of numerous genomic regions, changes that in some cases are associated with genes that confer disease resistance in other animal taxa.
 
-    -   Tiff file formats are preferred for images with high quality/resolution, 300 dpi or greater.
-        If you plan a collage of images, label as A, B, C, D, and submit the collage as a single figure with legible letters.
-        Graphs are ok too, but make sure the font size is legible.
-        Send the images as separate files.
+Evolution of disease resistance is clearly important for natural population recovery in the presence of Bd, but it also suggests the exciting possibility of using reintroduction of frogs from these resistant populations to expand the spatial scale of recovery expected from natural recovery alone.
+Aquatic habitats in the Sierra Nevada are highly fragmented naturally due to high topographic relief and the relatively limited dispersal capability of MYL frogs.
+These habitats are now substantially more isolated because of the widespread presence of introduced trout in dispersal corridors (i.e., streams), combined with the relatively small number of enzootic populations.
+As a result, natural recovery of MYL frogs across their historical range will be greatly limited, and likely to only occur in fishless aquatic habitats immediately adjacent to naturally-recovering populations.
 
-    -   Deadline is January 1, 2024.
+### References
